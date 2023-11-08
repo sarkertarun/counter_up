@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+#counter_part{
+    padding: 250px 0;
+    background: green;
+
+}
+
+.item_part{
+    display: flex;
+
+}
+
+.item{
+    width: 25%;
+    padding: 50px 30px;
+    background: red;
+    border-radius: 30px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+
